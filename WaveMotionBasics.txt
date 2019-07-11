@@ -1,0 +1,7 @@
+#================================================
+# Acoustics, Wave motion basics
+#	Created by : Praphul T
+#================================================
+
+1) Wave motion basics Visualisation on space and time 
+    Link : <url:https://www.acs.psu.edu/drussell/demos/wave-x-t/wave-x-t.html>
